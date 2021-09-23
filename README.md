@@ -3,7 +3,7 @@
 # 第01周
 ```C
 #include <stdio.h>
-![thumbbig-1009981.jpg]
+![thumbbig-1009981.jpg](thumbbig-1009981.jpg)
 
 int main()
 {
